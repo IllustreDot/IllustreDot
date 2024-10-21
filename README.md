@@ -1,6 +1,4 @@
-<div style="width: 50%;">
-  <img src="hi.gif" style="width: 100%;" alt="Click to see the source">
-</div>
+<img src="hi.gif" style="width: 50%;" alt="Click to see the source">
 
 # 📗 About me 
  Currently studying Computer Science in France. Most of my school project are presents on my github if they can be public.
