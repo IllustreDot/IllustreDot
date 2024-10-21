@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="hey.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="hi.gif" style="width: 100%;" alt="Click to see the source">
 </div>
 
 # 📗 About me 
