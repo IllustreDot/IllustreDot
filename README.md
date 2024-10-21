@@ -15,6 +15,6 @@
 # ⚙️ Currents projects
  - Neuronal network AI for detection of comportement of animal through image.
 
-# Contacts
+# 📩 Contacts
  - Discord : "illustre."
  - Mail : Ask by discord before.
