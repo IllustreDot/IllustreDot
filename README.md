@@ -1,4 +1,4 @@
-<div style="width: 100%;">
+<div style="width: 50%;">
   <img src="hi.gif" style="width: 100%;" alt="Click to see the source">
 </div>
 
