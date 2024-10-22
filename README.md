@@ -1,19 +1,19 @@
 <img src="hi.gif" style="width: 50%;" alt="Click to see the source">
 
 # 📗 About me 
- Currently studying Computer Science in France. Most of my school project are presents on my github if they can be public.
+ Currently studying Computer Science in France. Most of my school projects are available on my GitHub if they are public.
 
 # 🎨 Interested in
  - CI/CD
  - Web
  - AI
 
-# 🪄 Passionated by
+# 🪄 Passionate about
  - WoW's RWF
  - LoL's Esport
 
-# ⚙️ Currents projects
- - Neuronal network AI for detection of comportement of animal through image.
+# ⚙️ Current project.s
+ - Neural network AI for detecting animal behavior through images and videos.
 
 # 📩 Contacts
  - Discord : "illustre."
