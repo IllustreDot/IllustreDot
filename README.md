@@ -1,20 +1,21 @@
-<img src="hi.gif" style="width: 50%;" alt="Click to see the source">
+<img src="hi.gif" style="width: 20%;" alt="Click to see the source">
 
 # 📗 About me 
- Currently studying Computer Science in France. Most of my school projects are available on my GitHub if they are public.
-
+21F, Bachelor in Computer Science in France, currently working in the IT department of a city.
+ 
 # 🎨 Interested in
- - CI/CD
- - Web
- - AI
+- AI  
+- Making applications intuitive and efficient  
+- Simplifying and speeding up everyday workflows
 
 # 🪄 Passionate about
- - WoW's RWF
- - LoL's Esport
+- World of Warcraft Race to World First
+- League of Legend Esport
 
 # ⚙️ Current project.s
- - Neural network AI for detecting animal behavior through images and videos.
-
-# 📩 Contacts
- - Discord : "illustre."
- - Mail : Ask by discord before.
+- QoL Web extention for World of warcraft profiles across different website
+ 
+# 📩 Contacts
+- Discord: illustre.
+- Mail: IllustreRin@gmail.com
+- Professional mail: [Ask in DM]
