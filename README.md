@@ -1,4 +1,4 @@
-<img src="hi.gif" style="width: 20%;" alt="Click to see the source">
+<img src="hi.gif" style="width: 20%;" alt="Anime girl waving to say hello">
 
 # 📗 About me 
 21F, Bachelor in Computer Science in France, currently working in the IT department of a city.
@@ -11,6 +11,7 @@
 # 🪄 Passionate about
 - World of Warcraft Race to World First
 - League of Legend Esport
+- Underground Music
 
 # ⚙️ Current project.s
 - QoL Web extention for World of warcraft profiles across different website
